@@ -22,3 +22,7 @@ By exploring and customizing this project, you can showcase your web development
 
 GitHub Repository: [Link to Your GitHub Repository]
 Playlist Link: [Tech2 etc E-commerce Website Tutorial Playlist](https://youtube.com/playlist?list=PL9bD98LkBR7P8MYh0RzNSHgeVNTA8g0nB)
+
+
+
+https://github.com/sayansanpui/Build-and-Deploy-Ecommerce-Website/assets/109821827/8bcd2633-2676-4a10-8cc4-0c29f1003821
